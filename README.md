@@ -6,40 +6,49 @@ Quiz-Application Using MERN Stack Technology: In this project there are two port
 
 
 <i><h2>1) Registration Page</h2></i>
-![Screenshot 2025-02-11 194851](https://github.com/user-attachments/assets/bf81af2d-4a1f-4949-bec9-afd18b8eef1d)
+![Screenshot 2025-02-18 233931](https://github.com/user-attachments/assets/21d64d0d-6388-47f1-a46b-cecc30d5f353)
 
 <i><h2>2) Login Page</h2></i>
-![Screenshot 2025-02-11 194930](https://github.com/user-attachments/assets/59270bff-1e29-46ac-9c0b-c1ed6ded8d89)
+![Screenshot 2025-02-18 233944](https://github.com/user-attachments/assets/470306be-b7ed-443b-b98a-0437a237134c)
+
 
 <i><h2>3) Admin Profile Home Page</h2></i>
-![Screenshot 2025-02-11 195200](https://github.com/user-attachments/assets/a2c3d968-f1fd-4ea6-9e90-a67132e07a87)
+![Screenshot 2025-02-18 234359](https://github.com/user-attachments/assets/0127d094-de70-469d-af99-90f27d81dcb7)
+
 
 <i><h2>4) Add Quiz Page in which Admin Post the Quiz into the MongoDB Database</h2></i>
-![Screenshot 2025-02-11 195244](https://github.com/user-attachments/assets/70a4394c-5405-40dc-96ca-bf47d0f73e7f)
+![Screenshot 2025-02-18 234423](https://github.com/user-attachments/assets/8537a019-6fb6-4fae-b8f2-78ac403fd092)
+
 
 <i><h2>5) Add Questions in Quiz </h2></i>
-![Screenshot 2025-02-11 195320](https://github.com/user-attachments/assets/51326e68-194a-4cd1-bec7-ab473f6b49af)
+![Screenshot 2025-02-18 234454](https://github.com/user-attachments/assets/49d57b2f-cb30-411a-81ac-7660ad299efd)
+
 
 <i><h2>6) Edit Exam by Admin </h2></i>
-![Screenshot 2025-02-11 195403](https://github.com/user-attachments/assets/5387ccf8-7c71-4c7b-b29d-7c00eeef8629)
+![Screenshot 2025-02-18 234539](https://github.com/user-attachments/assets/26144b8c-6dad-4836-a3eb-b2ed85eb5771)
+
+
 
 <i><h2>7) Edit Que by Admin </h2></i>
-![Screenshot 2025-02-11 195433](https://github.com/user-attachments/assets/59f0f97c-be25-4f87-bbb8-070de525f940)
+![Screenshot 2025-02-18 234516](https://github.com/user-attachments/assets/5c6934f5-83a8-4cb7-844b-79df07fd013f)
+
 
 <i><h2>8) User's Profile </h2></i>
-![Screenshot 2025-02-11 195524](https://github.com/user-attachments/assets/59d18ae0-7bf0-420f-84a0-78829573a331)
+![Screenshot 2025-02-18 234612](https://github.com/user-attachments/assets/8edb3f5d-9228-4966-a153-ff99c0ba782e)
+
 
 <i><h2>9) Instructions before exam </h2></i>
-![Screenshot 2025-02-11 195540](https://github.com/user-attachments/assets/5258fe0e-af82-4f02-a3ff-45ec214743c2)
+![Screenshot 2025-02-18 234632](https://github.com/user-attachments/assets/98a9395f-bcac-44af-9b74-3fa720b877bb)
+
 
 
 <i><h2>10) User Result</h2></i>
+![Screenshot 2025-02-18 234655](https://github.com/user-attachments/assets/a2882c89-68f2-40bc-80a0-87deb1d2edb5)
 
-![Screenshot 2025-02-11 195609](https://github.com/user-attachments/assets/889385de-3f27-486f-83bd-1e46305c2659)
 
 <i><h2>11) Reports of all users that can be seen by only admin </h2></i>
-![Screenshot 2025-02-11 195716](https://github.com/user-attachments/assets/235d64c9-34ec-4633-bb70-1ffdd88673f0)
+![Screenshot 2025-02-18 234743](https://github.com/user-attachments/assets/e3776055-197e-45b3-8598-5d0951004b9f)
 
 <i><h2>12) User can see only his/her report </h2></i>
+![Screenshot 2025-02-18 234723](https://github.com/user-attachments/assets/b07f63a8-cff5-4460-bf9a-f76f4f5029dc)
 
-![Screenshot 2025-02-11 195632](https://github.com/user-attachments/assets/47f3e52a-5de1-4005-9981-6e8b5c065d9a)
